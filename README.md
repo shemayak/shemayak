@@ -4,5 +4,5 @@
 - 💬 Ask me  anything about Arduino.
 - ⚡ Fun fact: I have  dabbled in Manny programing languages!
 - ⚡ Fun fact: if your wondering why I started with c++ its because I really stated off with arduino
-- which is (a little ) easier then c++.
+ which is (a little ) easier then c++.
 
